@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TOHacks2020</string>
+    <string name="get_new_activity">Get New Activity</string>
+    <string name="activityfinder">ActivityFinder</string>
+
+</resources>
